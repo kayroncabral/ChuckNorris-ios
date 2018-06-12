@@ -1,0 +1,6 @@
+framework module Pods_Chuck_NorrisUITests {
+  umbrella header "Pods-Chuck NorrisUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
